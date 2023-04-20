@@ -1,0 +1,81 @@
+[
+  {
+    "id": "0",
+    "name": "Family capacity Room",
+    "price": "159",
+    "profile": "P",
+    "image": "https://www.sleeplandbeds.co.uk/_0_0_9O3H6.jpg",
+    "desc": "Have lots of in-room faclities and designed in open concept living area",
+    "bed": 1,
+    "people": 1
+  },
+  {
+    "id": "1",
+    "name": "Family capacity Room",
+    "price": "129",
+    "profile": "C",
+    "image": "https://media.gq-magazine.co.uk/photos/61640fac21050ae5a2fa5ed9/4:3/w_1440,h_1080,c_limit/07102021_Bed_HP.jpg",
+    "desc": "Superior Double Rooms are perfectly Equipped for traveling couples of friends",
+    "bed": 3,
+    "people": 4
+  },
+  {
+    "id": "2",
+    "name": "Couple Rower Room",
+    "price": "179",
+    "profile": "A",
+    "image": "https://cdn11.bigcommerce.com/s-zllqv0a9td/images/stencil/1280x1280/o/beds-cat-image__79872.original.jpg",
+    "desc": "Standard Single Rooms are designed in open concept living are and have many Facilites",
+    "bed": 2,
+    "people": 2
+  },
+  {
+    "id": "3",
+    "name": "Standard Single Room",
+    "price": "147",
+    "profile": "Z",
+    "image": "https://ecosaau.imgix.net/1115-product_cover_desktop/rise-bedframe.jpg",
+    "desc": "Standard Single Rooms are designed in open concept living are and have many Facilites",
+    "bed": 2,
+    "people": 2
+  },
+  {
+    "id": "4",
+    "name": "Family capacity Room",
+    "price": "148",
+    "profile": "F",
+    "image": "https://www.fortytwo.sg/media/catalog/product/cache/1/small_image/2000x/9df78eab33525d08d6e5fb8d27136e95/i/m/img_5986_cropped_1.jpg",
+    "desc": "Superior Double Rooms are perfectly Equipped for traveling couples of friends",
+    "bed": 1,
+    "people": 1
+  },
+  {
+    "id": "5",
+    "name": "Standard Single Room",
+    "price": "160",
+    "profile": "D",
+    "image": "https://www.fancyhomes.com.au/wp/wp-content/uploads/2019/05/ELLA-Black.jpg",
+    "bed": 4,
+    "people": 4
+  },
+  {
+    "id": "6",
+    "name": "Couple Rower Room",
+    "price": "1009",
+    "profile": "E",
+    "image": "https://www.centuryply.com/assets/img/blog/11-01-23/blog-28.png",
+    "desc": "Superior Double Rooms are perfectly Equipped for traveling couples of friends",
+    "bed": 1,
+    "people": 1
+  },
+  {
+    "id": "7",
+    "name": "Family capacity Room",
+    "price": "149",
+    "profile": "H",
+    "image": "https://www.naturalbedcompany.co.uk/wp-content/uploads/WALNUT-LEITH-MODERN-BED-WITH-CHARCOAL-LINEN-BEDDING.jpg",
+    "desc": "Standard Single Rooms are designed in open concept living are and have many Facilites",
+    "bed": 5,
+    "people": 5
+  }
+]
